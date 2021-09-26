@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gopal
 - 👀 I’m interested in ...python web development.
-- 🌱 I’m currently learning ..computer science anf engineering.
+- 🌱 I’m currently learning ..computer science and engineering.
 - 💞️ I’m looking to collaborate on ..backend projects.
 - 📫 How to reach me ..Gopalthakur1129@gmail.com.
 
